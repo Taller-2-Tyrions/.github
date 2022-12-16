@@ -19,7 +19,7 @@
 
 [:iphone: Manual Usuario Mobile](https://taller-2-tyrions.github.io/fiuber-manual-aplicacion/)
 
-[:coffin: Bitacora y PostMortem](https://taller-2-tyrions.github.io/documentacion-bitacora-postmorte)
+[:coffin: Bitacora y PostMortem](https://taller-2-tyrions.github.io/documentacion-bitacora-postmortem)
 
 [:movie_camera: Video presentación](https://www.youtube.com/watch?v=O95Aa7r8Yaw)
 

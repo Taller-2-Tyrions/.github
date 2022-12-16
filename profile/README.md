@@ -1,12 +1,28 @@
-# TP FI UBER- Taller de Programación II
+# Fiuber - Taller de Programación II, 2C 2022
+
+## Integrantes:
+ - Santiago Fernandez Caruso
+ - Mateo Capon Blanquer
+ - Ignacio Iragui
+ - Gonzalo Sabatino
+ - Lucas Veron
+
 
 
 ## Links importantes
 
-[:art: Diagramas](https://lucid.app/lucidchart/044a05e3-ac54-422e-afad-49649120d5d9/edit?invitationId=inv_d4561b9d-fb88-4e1e-8410-9ee93690c2c0&page=Qpit_yEEgBkD#)
+[:art: Enunciado](https://taller-de-programacion-2.github.io/works/statement/2022/2/enunciado/)
 
-[:confused: Enunciado](https://taller-de-programacion-2.github.io/works/statement/2022/2/enunciado/)
+[:books: Documentación técnica](https://taller-2-tyrions.github.io/fiuber-documentation-tecnica/)
 
-[:pencil: Escribir Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[:computer: Manual Administrador](https://taller-2-tyrions.github.io/fiuber-manual-backoffice/)
 
-[:clock3: Trello](https://trello.com/b/ClWLiBWF/kanban)
+[:iphone: Manual Usuario Mobile](https://taller-2-tyrions.github.io/fiuber-manual-aplicacion/)
+
+[:coffin: Bitacora y PostMortem](https://taller-2-tyrions.github.io/documentacion-bitacora-postmorte)
+
+[:movie_camera: Video presentación](https://www.youtube.com/watch?v=O95Aa7r8Yaw)
+
+[:moyai: Presentación](https://drive.google.com/file/d/1wIhybrXjQpvrm9YjjtpKPWDdFxc_SSsS/view?usp=sharing)
+
+

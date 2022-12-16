@@ -25,4 +25,6 @@
 
 [:moyai: Presentación](https://drive.google.com/file/d/1wIhybrXjQpvrm9YjjtpKPWDdFxc_SSsS/view?usp=sharing)
 
+[ :heavy_check_mark: Historias obligatorias y optativas realizadas por checkpoint](https://docs.google.com/spreadsheets/d/1JAs2Kfe34vX0VhEDlaR_6ATPc9y1wDiphgDXtjlTiI0/edit#gid=0)
+
 
